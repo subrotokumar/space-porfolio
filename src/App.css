@@ -637,6 +637,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin-top: 20px;
 }
 
+/* ------------- */
 .tech-icon {
   margin-top: 16px;
   height: 40px;
@@ -644,4 +645,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 .submit-button {
   border-radius: 20px;
+}
+
+.pad {
+  margin-top: 20px;
 }

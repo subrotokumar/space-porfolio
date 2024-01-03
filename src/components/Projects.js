@@ -21,18 +21,21 @@ export const Projects = () => {
       description: "Realtime Document Editor",
       imgUrl: docsyncImg,
       tech: ["nodejs", "flutter", "mongodb"],
+      link: "https://github.com/subrotokumar/doc-sync-server",
     },
     {
       title: "Kurumi: Anilist Client",
       description: "Discovery and tracking app for Anime lovers",
       imgUrl: kurumiImg,
       tech: ["dart", "flutter", "graphql"],
+      link: "https://play.google.com/store/apps/details?id=com.subrotokumar.kurumi"
     },
     {
       title: "Comet",
       description: "Cryptocurrency And NFT Wallet\n for EVM chains",
       imgUrl: cometImg,
       tech: ["flutter", "solidity", "nodejs"],
+      link: "https://play.google.com/store/apps/details?id=com.subrotokumar.comet"
     },
   ];
 
@@ -42,18 +45,21 @@ export const Projects = () => {
       description: "Cryptocurrency token swapper",
       imgUrl: OneInchDexImg,
       tech: ["react", "html", "nodejs", "express"],
+      link: "https://fascinating-empanada-ff7997.netlify.app/"
     },
     {
       title: "Coinstate",
       description: "Cryptocurrency Price Tracker",
       imgUrl: coinstateImg,
       tech: ["dart", "flutter", "androidstudio"],
+      link: "https://play.google.com/store/apps/details?id=com.subrotokumar.cryptobook"
     },
     {
       title: "AboutMe CLi",
       description: "CLI like porfolio website",
       imgUrl: aboutMeCliImg,
       tech: ["typescript", "react", "css", "html"],
+      link: "https://github.com/subrotokumar/aboutme-cli"
     },
 
   ];
@@ -64,12 +70,14 @@ export const Projects = () => {
       description: "URL shortner built with go, postgres and gorm",
       imgUrl: urlShorterImg,
       tech: ["go", "postgres"],
+      link: "https://github.com/subrotokumar/go-url-shortener"
     },
     {
       title: "NYX",
       description: "NFT Gallery",
       imgUrl: nyxImg,
       tech: ["androidstudio"],
+      link: "https://play.google.com/store/apps/details?id=com.subrotokumar.nyx"
     },
   ];
 
