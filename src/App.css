@@ -650,3 +650,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .pad {
   margin-top: 20px;
 }
+
+.box {
+  height: 30px;
+  width: 50px;
+}
